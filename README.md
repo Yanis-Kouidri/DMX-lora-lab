@@ -8,7 +8,7 @@ This project targets the **Microchip RN2483 LoRa Technology Mote**, an evaluatio
 
 ## WSL 2 Mote connection
 
-To work on WSL and connect to the mote you need to do
+To work on WSL and connect to the mote you need to run on Windows PowerShell:
 
 ```bash
 usbipd list
