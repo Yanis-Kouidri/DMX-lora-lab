@@ -10,3 +10,4 @@ wheels/
 .venv
 
 secrets.md
+campagne_sf.csv
