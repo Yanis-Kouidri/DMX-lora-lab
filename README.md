@@ -26,3 +26,9 @@ and, with the correct busid
 ```bash
 usbipd attach --wsl --busid 6-2
 ```
+
+Or better
+
+```bash
+usbipd attach --hardware-id 04d8:000a --wsl
+```
