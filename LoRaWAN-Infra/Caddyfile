@@ -1,0 +1,7 @@
+chirpstack.kouidri.fr {
+    reverse_proxy chirpstack:8080
+}
+
+grafana.chirpstack.kouidri.fr {
+    reverse_proxy grafana:3000
+}
