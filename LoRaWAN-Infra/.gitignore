@@ -2,7 +2,6 @@
 .*
 !.gitattributes
 !.gitignore
-!.env.example
 
 # data folder
 /data
