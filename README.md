@@ -1,4 +1,13 @@
-# Lora-lab
+# DMX-LoRa-Exp-1
+
+## Experimental Setup & Objectives
+
+This repository presents a comparative performance analysis of wireless sensor data harvesting in a LoRaWAN architecture, evaluating the performance of a mobile gateway versus a fixed (static) gateway. The primary objective of this experiment is to measure and compare key network performance metrics and RF signal characteristics across both deployment scenarios, including:
+
+- Packet Delivery Ratio (PDR)
+- Received Signal Strength Indicator (RSSI)
+- Signal-to-Noise Ratio (SNR)
+- Dynamic Adaptation of Spreading Factor (SF) and Coding Rate (CR)
 
 ## Hardware
 
